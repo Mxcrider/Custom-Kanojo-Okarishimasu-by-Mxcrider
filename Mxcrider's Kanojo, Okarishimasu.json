@@ -13,22 +13,6 @@
         "Mxcrider": "/proxy/api/imgur/chapter/pBmSKIl"
       }
     },
-    "3": {
-      "title": "Chapter α (Alpha): The Girlfriend And What If (Part I)",
-      "volume": "0",
-      "last_updated": "1691535747",
-      "groups": {
-        "Mxcrider": "/proxy/api/imgur/chapter/lhvfxTI"
-      }
-    },
-    "5": {
-      "title": "Chapter 233: The Girlfriend And The Kiss (Part II)",
-      "volume": "27",
-      "last_updated": "1691535869",
-      "groups": {
-        "Mxcrider; Kanokari When?! Scans": "/proxy/api/imgur/chapter/c1QMRCT"
-      }
-    },
     "2": {
       "title": "",
       "volume": "0",
@@ -37,12 +21,28 @@
         "": "/proxy/api/imgur/chapter/HHwNOUm"
       }
     },
+    "3": {
+      "title": "Chapter α (Alpha): The Girlfriend And What If (Part I)",
+      "volume": "0",
+      "last_updated": "1691535747",
+      "groups": {
+        "Mxcrider": "/proxy/api/imgur/chapter/lhvfxTI"
+      }
+    },
     "4": {
       "title": "",
       "volume": "0",
       "last_updated": "1691536152",
       "groups": {
         "": "/proxy/api/imgur/chapter/h1HWQ5U"
+      }
+    },
+    "5": {
+      "title": "Chapter 233: The Girlfriend And The Kiss (Part II)",
+      "volume": "27",
+      "last_updated": "1691535869",
+      "groups": {
+        "Mxcrider; Kanokari When?! Scans": "/proxy/api/imgur/chapter/c1QMRCT"
       }
     }
   }
