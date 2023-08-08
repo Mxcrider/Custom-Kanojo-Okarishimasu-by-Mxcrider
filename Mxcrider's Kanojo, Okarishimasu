@@ -1,0 +1,17 @@
+{
+  "title": "<Kanojo, Okarishimasu fan chapters>",
+  "description": "<Welcome to the world of Rent a Girlfriend "fan chapters" (or doujinshi)>",
+  "artist": "<Mxcrider>",
+  "author": "<Mxcrider>",
+  "cover": "<imageurl.jpg>",
+  "chapters": {
+    "<1>": {
+      "title": "<Chapter X: The Girlfriend And The Better Wingman>",
+      "volume": "<0>",
+      "groups": {
+        "<First Fan Chapter>": "/proxy/api/imgur/chapter/<pBmSKIl>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
